@@ -90,8 +90,9 @@ const CardSix = () => {
           <h3 className="mt-4 mb-3 text-[#2A2A2A] font-semibold text-[20px] leading-[22px]  lg:text-[24px] lg:leading-[25.2px] xl:text-[32px] xl:leading-[35.2px]">
             Agro mahsulotlar
           </h3>
-          <p className="text-[#2A2A2A] font-medium text-[14px] leading-[18px] lg:text-[16px]  xl:text-[16px] xl:leading-[21.6px]">
-            Platforma fermerlarga o‘simlik kasalliklariga qarshi samarali dori vositalarini topish va ishonchli yetkazib beruvchilardan sotib olish imkoniyatini taqdim etib, ularning narxi, tarkibi va qo‘llanilishi bo‘yicha to‘liq ma’lumot beradi.
+          <p className="text-[#2A2A2A]  font-medium text-[14px] leading-[18px] lg:text-[16px]  xl:text-[16px] xl:leading-[21.6px]">
+          <span className="text-[#1AA95B] font-semibold text-[16px] leading-[20px] md:text-[18px] md:leading-[24px] xl:text-[24px] xl:leading-[32px]">  Platforma  </span>
+          fermerlarga o‘simlik kasalliklariga qarshi samarali dori vositalarini topish va ishonchli yetkazib beruvchilardan sotib olish imkoniyatini taqdim etib, ularning narxi, tarkibi va qo‘llanilishi bo‘yicha to‘liq ma’lumot beradi.
           </p>
         </div>
       </motion.div>
