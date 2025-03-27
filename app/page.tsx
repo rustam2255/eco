@@ -6,10 +6,9 @@ import Info from './info/info'
 
 const Page = () => {
   return (
-    <div style={{ backgroundColor: '#EFEFEF' }} className='pb-6'>
+    <div style={{ backgroundColor: '#EFEFEF' }} className='pb-6 overflow-x-hidden'>
       <Hero />
       <Info />
-  
     </div>
   )
 }

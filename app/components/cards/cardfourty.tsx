@@ -4,7 +4,7 @@ import React from 'react'
 const CardFourth = () => {
   return (
     <div className='w-full flex md:flex-row flex-col gap-5 mt-7'>
-      <div className='md:w-[50%] w-[90%] mx-auto flex flex-col h-[550px] rounded-[30px] gap-3 p-[28px]' style={{ backgroundColor: '#FFFFFF' }}>
+      <div className='md:w-[50%] w-[90%] mx-auto flex flex-col h-[550px] rounded-[30px]  p-5' style={{ backgroundColor: '#FFFFFF' }}>
         <div className='md:w-[569px] w-[90%]  h-[355px] flex items-center p-9 justify-center mx-auto rounded-[30px]' style={{ backgroundColor: '#F8F8F8' }}>
           <div className='flex flex-row md:mr-0 mr-[190px]'>
             <Image
@@ -18,7 +18,7 @@ const CardFourth = () => {
               alt='rasm'
               width={300}
               height={293}
-              className='mx-auto mr-[155px]  object-contain  md:h-[290px] h-[250px]  rounded-2xl z-10 rotate-9'
+              className='mx-auto mr-[155px]  object-contain  md:h-[290px] h-[250px] mb-[20px]  rounded-2xl z-10 rotate-9'
             />
 
           </div>

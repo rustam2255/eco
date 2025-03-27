@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const Hero = () => {
   return (
-    <div className='h-[894px] w-full bg-cover bg-center rounded-b-[50px] flex items-center' style={{ backgroundImage: 'url("https://growz.io/neture.png")' }} >
+    <div className='md:h-[100vh] h-auto p-3 w-full bg-cover bg-center rounded-b-[50px] flex items-center' style={{ backgroundImage: 'url("https://growz.io/neture.png")' }} >
       <div className='rounded-[30px] w-[90%] max-w-[1270px] h-[90%] mx-auto flex items-center p-[15px]' style={{ backgroundColor: '#EFEFEF' }}>
         <div className='w-full max-w-[1210px] rounded-[30px] md:p-[30px] p-[15px] h-[90%] mx-auto' style={{ backgroundColor: '#FFFFFF' }}>
           <div className='flex items-center justify-between'>

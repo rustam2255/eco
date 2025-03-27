@@ -24,7 +24,7 @@ const CardSix = () => {
     <div className="w-full flex md:flex-row flex-col gap-5 mt-7">
       {/* Chap tarafdagi card */}
       <motion.div
-        className="md:w-[50%] w-[90%] mx-auto flex flex-col h-[550px] rounded-[30px] fap-3 p-[28px]"
+        className="md:w-[50%] w-[90%] mx-auto flex flex-col h-[550px] rounded-[30px] p-5 "
         style={{ backgroundColor: "#FFFFFF" }}
         initial={{ x: "-100%", opacity: 0 }}
         animate={show ? { x: 0, opacity: 1 } : { x: "-100%", opacity: 0 }}
@@ -100,3 +100,4 @@ const CardSix = () => {
 };
 
 export default CardSix;
+
