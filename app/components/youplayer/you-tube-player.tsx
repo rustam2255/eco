@@ -7,7 +7,7 @@ const VideoComponent = () => {
   return (
     <div className="flex items-center videoPlayer">
       <ReactPlayer 
-        url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        url=" https://youtu.be/myVcct1mZM4?si=r8zMkGZhloCDy-Gx"
         width="512px"
         
         controls={true}

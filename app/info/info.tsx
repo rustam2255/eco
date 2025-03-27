@@ -1,5 +1,5 @@
 import React from 'react'
-import {CardFirst, CardFive, CardFourth, CardSecond, CardSix, CardThird, Footer} from '../components/index'
+import {CardFirst, CardFive, CardFourth, CardSecond, CardSix, CardThird} from '../components/index'
 
 const Info = () => {
   return (
@@ -10,7 +10,7 @@ const Info = () => {
         <CardFourth />
         <CardFive />
         <CardSix /> 
-        <Footer />
+        
     </div>
   )
 }

@@ -24,14 +24,12 @@ const Hero = () => {
             <YouTubePlayer />
             <div className='flex flex-col  pt-3 w-full'>
               <h3 className="font-semibold text-[18px] leading-[26px] md:text-[23px] md:leading-[30px] xl:text-[32px] xl:leading-[43px] text-[#2A2A2A] mb-[16px] lg:mb-[32px]">
-                Smart Farming for a Sustainable Future with Data and AI
+              Sun’iy intellekt va ma’lumotlar asosidagi barqaror kelajak dehqonchiligi
               </h3>
               <p className="text-[#2A2A2A] mt-[15px] font-normal text-[14px] leading-[18px] md:text-[17px] md:leading-[22px] xl:text-[20px] xl:leading-[27px]">
-                <span className="text-[#1AA95B] font-semibold text-[16px] leading-[20px] md:text-[18px] md:leading-[24px] xl:text-[24px] xl:leading-[32px]">Growz</span> — is the best digital platform for small-scale farmers, designed to enhance productivity, sustainability, and market access.
+                <span className="text-[#1AA95B] font-semibold text-[16px] leading-[20px] md:text-[18px] md:leading-[24px] xl:text-[24px] xl:leading-[32px]">Bu bot</span> — kasallik turlari va ularga qarshi davo choralarini tez va samarali tarzda aniqlash imkonini beruvchi sun’iy     intellekt texnologiyasiga asoslangan platforma.
               </p>
-              <p className="mt-[15px]">
-                Whether youre managing your crops, seeking personalized farming advice, or looking for the best deals on fertilizers and agrochemicals, <span className="text-[#1AA95B] font-bold">Growz</span> is here to support you in every way.
-              </p>
+             
             </div>
           </div>
         </div>
